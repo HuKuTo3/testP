@@ -1,0 +1,21 @@
+{
+    "emotion": {
+        "angry": 0.020957618951797485,
+        "disgust": 1.2158159305990669e-14,
+        "fear": 4.771844863891602,
+        "happy": 0.17797215282917023,
+        "sad": 95.00882720947266,
+        "surprise": 0.00017117118113674223,
+        "neutral": 0.020231138914823532
+    },
+    "dominant_emotion": "sad",
+    "region": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 375,
+        "left_eye": null,
+        "right_eye": null
+    },
+    "face_confidence": 0
+}
